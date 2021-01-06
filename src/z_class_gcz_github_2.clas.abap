@@ -12,5 +12,6 @@ ENDCLASS.
 CLASS z_class_gcz_github_2 IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
     out->write('Hello SAP Cloud Platform ABAP Environment!').
+     out->write('Hello SAP Cloud Platform ABAP Environment!').
   ENDMETHOD.
 ENDCLASS.
